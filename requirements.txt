@@ -2,5 +2,4 @@ transformers
 torch
 librosa
 numpy
-io
 streamlit
